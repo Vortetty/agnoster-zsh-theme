@@ -1,4 +1,4 @@
-# agnoster.zsh-theme
+# agnoster-truecolor.zsh-theme
 
 A ZSH theme optimized for people who use:
 
@@ -8,7 +8,11 @@ A ZSH theme optimized for people who use:
 
 For Mac users, I highly recommend iTerm 2 + Solarized Dark
 
-# Compatibility
+---
+
+Edited to use configurable truecolor colors instead!
+
+## Compatibility
 
 **NOTE:** In all likelihood, you will need to install a [Powerline-patched font](https://github.com/Lokaltog/powerline-fonts) for this theme to render correctly.
 
